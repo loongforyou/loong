@@ -11,3 +11,7 @@ while (n > 10):
 
 def get():
     print("hello world")
+
+====================
+
+print('hello')
