@@ -1,1 +1,4 @@
-print('hello github')
+# coding:utf-8
+
+for i in range(10):
+    print('hello github')
